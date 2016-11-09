@@ -1,0 +1,5 @@
+sudo apt-get install git-core
+cd ~
+git clone http://bit.ly/starwarspython
+cd minecraft-starwars
+python starwars.py
