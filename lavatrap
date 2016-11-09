@@ -1,0 +1,5 @@
+sudo apt-get install git-core
+cd ~
+git clone https://github.com/martinohanlon/minecraft-lavatrap.git
+cd minecraft-lavatrap
+python minecraft-lavatrap.py
