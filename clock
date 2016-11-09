@@ -1,0 +1,5 @@
+sudo apt-get install git-core
+cd ~
+git clone https://github.com/martinohanlon/minecraft-clock.git
+cd minecraft-clock
+python minecraft-clock.py
