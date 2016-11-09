@@ -1,0 +1,5 @@
+sudo apt-get install git-core
+cd ~
+git clone https://github.com/martinohanlon/minecraft-planets.git
+cd minecraft-planets
+python minecraft-planets.py
